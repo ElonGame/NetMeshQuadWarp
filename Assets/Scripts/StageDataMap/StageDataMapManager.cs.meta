@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1a44d710ab30b6049834895565882c6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _script: {instanceID: 0}
+  - _setQuadrangleDataShader: {fileID: 4800000, guid: 036a631df3a002446b76c08e4a00162e,
+      type: 3}
+  - _setTriangleDataShader: {fileID: 4800000, guid: 5f1b85fe60b9c7546a6cda0ae7af6f4f,
+      type: 3}
+  - _calcGradientShader: {fileID: 4800000, guid: d165ffaba1b5dd349b432b7d03cdb0bb,
+      type: 3}
+  - _gravityDirectionMap: {instanceID: 0}
+  - _worldPositionMap: {instanceID: 0}
+  - _worldPositionYGradientMap: {instanceID: 0}
+  - _uvMap: {instanceID: 0}
+  - _normalMap: {instanceID: 0}
+  - _emitterUVMap: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
